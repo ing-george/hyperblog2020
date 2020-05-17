@@ -1,0 +1,2 @@
+# (* Significa todo tipo de archivos) Ignore todos los archivos jgp de esta forma ignorara en 100% los archivos jpg.
+*.jpg
